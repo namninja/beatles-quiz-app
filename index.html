@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" name="description" content="Beatles Quiz" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Thinkful Quiz App | The Ultimate Beatles Quiz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Oswald|Roboto|Vollkorn" rel="stylesheet">
+    <!-- Normalize.css, a cross-browser reset file -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+
+<body>
+    <main role="main">
+        <div class="header">
+            <header role="banner" id="header">
+                <h1>The Ultimate Beatles Quiz</h1>
+            </header>
+        </div>
+        <div class="content">
+            <div class="welcome-page start leave" id="welcome-page">
+                <h2>Welcome to The Ultimate Beatles Quiz</h2>
+                <p>This quiz is designed to test your knowledge of the legendary rock group. Good luck!</p>
+                <div>
+                    <form name="quiz-start" class="js-start-quiz">
+                        <button class="js-start-btn stay-leave" type="submit">Start Quiz</button>
+                    </form>
+                    <form name="leave-quiz" class="js-leave-quiz">
+                        <button class="js-leave-btn stay-leave" type="submit">Maybe some other time</button>
+                    </form>
+                </div>
+            </div>
+            <div class="question-page hide-display" id="question-page">
+            </div>
+            <div class="feedback-page hide-display">
+            </div>
+            <div class="final-score start leave hide-display">
+            </div>
+        </div>
+    </main>
+    <div class="footer">
+        <footer role="contentinfo" id="footer">This Quiz App was designed by Nam Ngo for Thinkful</footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+
+</body>
+
+</html>
