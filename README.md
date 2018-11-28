@@ -28,7 +28,8 @@ Your quiz app must:
 *Use responsive design and be usable in 320px-wide viewports.
 *Refer to this checklist for help.
 *Be fully usable by keyboard (which will be easy enough if you start with a form).
-*Process requirements
+
+Process requirements
 
 Before you dive into the app, you'll need to:
 
