@@ -54,8 +54,8 @@ main {
     text-shadow: 1px 1px 1px gray;
 }
 .welcome-page {
-    background-color: rgba(150, 12, 232, 0.7);
-    color: #fefefe;
+    background-color: rgba(158,26,234, 0.7);
+    color: #E8E8E8;
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 2px black;
     max-width: 700px;
@@ -83,8 +83,8 @@ main {
     flex-wrap: wrap-reverse;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgba(150, 12, 232, 0.7);
-    color: #fefefe;
+    background-color: rgba(158,26,234, 0.7);
+    color: #E8E8E8;
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 1px black;
     margin-left: auto;
@@ -115,11 +115,11 @@ main {
 
 
 .feedback-page {
-    color: #fefefe;
+    color: #E8E8E8;
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 2px black;
     padding: 15px;
-    background-color: rgba(150, 12, 232, 0.7);
+    background-color: rgba(158,26,234, 0.7);
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -134,7 +134,7 @@ main {
     
 }
 .final-score {
-    color: #fefefe;
+    color: #E8E8E8;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -142,7 +142,7 @@ main {
     flex-direction: column;
     align-content: center;
     text-align: center;
-    background-color: rgba(150, 12, 232, 0.7);
+    background-color: rgba(158,26,234, 0.7);
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 1px black;
     margin-left: 30px;
@@ -191,8 +191,8 @@ main {
             flex-wrap: wrap-reverse;
             justify-content: space-evenly;
             align-items: center;
-            background-color: rgba(150, 12, 232, 0.7);
-            color: #fefefe;
+            background-color: rgba(158,26,234, 0.7);
+            color: #E8E8E8;
             font-family: 'Roboto', sans-serif;
             text-shadow: 1px 1px 1px black;
             margin-left: auto;
@@ -210,8 +210,8 @@ main {
     flex-wrap: wrap-reverse;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgba(150, 12, 232, 0.7);
-    color: #fefefe;
+    background-color: rgba(158,26,234, 0.7);
+    color: #E8E8E8;
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 1px black;
     margin-left: auto;
@@ -220,11 +220,11 @@ main {
 }
 
     .feedback-page {
-        color: #fefefe;
+        color: #E8E8E8;
         font-family: 'Roboto', sans-serif;
         text-shadow: 1px 1px 2px black;
         padding: 15px;
-        background-color: rgba(150, 12, 232, 0.7);
+        background-color: rgba(158,26,234, 0.7);
         margin-left: auto;
         margin-right: auto;
         display: flex;
